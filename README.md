@@ -105,7 +105,7 @@ This project is open-source under the MIT License.
 
 Contributions are welcome!
 
-- Open an issue for bugs or feature requests
+- Open an issue for bugs or feature requests.
 
 - Submit a pull request for improvements.
 
